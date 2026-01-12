@@ -1,0 +1,16 @@
+ASSIGNMENT-5
+QUANTVISION
+In this project, I aimed to create a model that identifies profitable trading patterns in financial charts and generate trading signals.
+
+Labeling Methodology:
+
+Hammer: A long lower shadow that is at least twice the size of the real body, with little to no upper shadow resembles a hammer pattern.
+
+Doji: Represented by a candle where the opening and closing prices are nearly equal.
+
+Marubozu: A new named which I discovered during this assignment. A candlestick with a large body and almost no upper or lower shadows, indicating one-sided market conviction.
+
+Shooting Star: The bearish counterpart to the Hammer, featuring a long upper shadow (at least twice the body size) and a small body near the daily low.
+
+Bullish Engulfing: A two-candle pattern where a small red (bearish) candle is followed by a larger green (bullish) candle that completely "engulfs" the body of the previous day.
+
